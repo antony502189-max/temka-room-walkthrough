@@ -1,0 +1,2 @@
+Source commit: 1e1ab00c555ade4f31927612f84f5704c5704b88
+The .git directory and credentials are intentionally not included.
